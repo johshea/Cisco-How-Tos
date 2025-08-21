@@ -443,7 +443,7 @@ Replace each with an actual screenshot from your environment if documenting.
 
 # Blank Screenshot Placeholders
 
-Use these placeholders in the runbook to mark where screenshots should be inserted. Replace each box with an actual screenshot when documenting.
+
 
 ## Screenshot 1: Dashboard → Monitoring → Redundancy
 
